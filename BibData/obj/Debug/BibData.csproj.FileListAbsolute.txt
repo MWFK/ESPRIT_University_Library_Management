@@ -1,0 +1,50 @@
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\bin\Debug\BibData.dll.config
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\bin\Debug\BibData.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\bin\Debug\BibData.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\bin\Debug\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\bin\Debug\EntityFramework.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\bin\Debug\BibDomain.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\bin\Debug\EntityFramework.xml
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\obj\Debug\BibData.csprojResolveAssemblyReference.cache
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\obj\Debug\BibData.csproj.CoreCompileInputs.cache
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\obj\Debug\BibData.csproj.CopyComplete
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\obj\Debug\BibData.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\obj\Debug\BibData.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\obj\Debug\BibData.Migrations.b.resources
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\obj\Debug\BibData.csproj.GenerateResource.cache
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\BibData.dll.config
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\BibData.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\BibData.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\EntityFramework.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\BibDomain.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\EntityFramework.xml
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.csprojResolveAssemblyReference.cache
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.Migrations.b.resources
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.Migrations.l.resources
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.Migrations.j.resources
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.Migrations.g.resources
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.Migrations.gg.resources
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.csproj.GenerateResource.cache
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.csproj.CoreCompileInputs.cache
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.csproj.CopyComplete
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\BibData.dll.config
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\BibData.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\BibData.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\BibDomain.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\EntityFramework.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\EntityFramework.SqlServer.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\BibDomain.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\EntityFramework.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\EntityFramework.SqlServer.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.csprojResolveAssemblyReference.cache
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.Migrations.MK.resources
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.csproj.GenerateResource.Cache

@@ -1,0 +1,45 @@
+C:\Users\bensaid\Desktop\GestionBibliotheque\Service\bin\Debug\Service.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\Service\bin\Debug\Service.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\Service\bin\Debug\BibData.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\Service\bin\Debug\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\Service\bin\Debug\ServicePattern.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\Service\bin\Debug\EntityFramework.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\Service\bin\Debug\BibData.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\Service\bin\Debug\BibData.dll.config
+C:\Users\bensaid\Desktop\GestionBibliotheque\Service\bin\Debug\BibDomain.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\Service\bin\Debug\ServicePattern.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\Service\bin\Debug\EntityFramework.xml
+C:\Users\bensaid\Desktop\GestionBibliotheque\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\bensaid\Desktop\GestionBibliotheque\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\bensaid\Desktop\GestionBibliotheque\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\bensaid\Desktop\GestionBibliotheque\Service\obj\Debug\Service.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\Service\obj\Debug\Service.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\Service.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\Service.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\BibData.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\ServicePattern.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\EntityFramework.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\BibData.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\BibData.dll.config
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\BibDomain.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\ServicePattern.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\EntityFramework.xml
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\Service\obj\Debug\Service.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\Service\obj\Debug\Service.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\Service.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\Service.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\BibData.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\BibDomain.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\ServicePattern.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\EntityFramework.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\BibData.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\BibDomain.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\ServicePattern.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\Service\bin\Debug\EntityFramework.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\Service\obj\Debug\Service.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\Service\obj\Debug\Service.pdb

@@ -1,0 +1,39 @@
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\bin\Debug\ServicePattern.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\bin\Debug\ServicePattern.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\bin\Debug\BibData.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\bin\Debug\EntityFramework.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\bin\Debug\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\bin\Debug\BibData.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\bin\Debug\BibData.dll.config
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\bin\Debug\EntityFramework.xml
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\bin\Debug\BibDomain.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.csprojResolveAssemblyReference.cache
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.csproj.CoreCompileInputs.cache
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.csproj.CopyComplete
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\ServicePattern.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\ServicePattern.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\BibData.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\EntityFramework.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\BibData.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\BibData.dll.config
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\EntityFramework.xml
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\BibDomain.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.csprojResolveAssemblyReference.cache
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.csproj.CoreCompileInputs.cache
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.csproj.CopyComplete
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\ServicePattern.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\ServicePattern.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\BibData.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\EntityFramework.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\BibDomain.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\BibData.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\EntityFramework.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\BibDomain.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.csprojResolveAssemblyReference.cache
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.pdb

@@ -1,0 +1,15 @@
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibDomain\bin\Debug\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibDomain\bin\Debug\BibDomain.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.csproj.CoreCompileInputs.cache
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\bin\Debug\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\bin\Debug\BibDomain.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.csproj.CoreCompileInputs.cache
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\bin\Debug\BibDomain.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\bin\Debug\BibDomain.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.csprojResolveAssemblyReference.cache
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.pdb

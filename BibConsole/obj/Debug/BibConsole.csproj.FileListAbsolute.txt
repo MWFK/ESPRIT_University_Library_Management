@@ -1,0 +1,39 @@
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\BibConsole.exe.config
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\BibConsole.exe
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\BibConsole.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\EntityFramework.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\Service.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\ServicePattern.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\BibData.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\BibDomain.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\ServicePattern.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\Service.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\EntityFramework.xml
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\BibData.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\BibData.dll.config
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\obj\Debug\BibConsole.csprojResolveAssemblyReference.cache
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\obj\Debug\BibConsole.csproj.CoreCompileInputs.cache
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\obj\Debug\BibConsole.csproj.CopyComplete
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\obj\Debug\BibConsole.exe
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\obj\Debug\BibConsole.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\BibConsole.exe.config
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\BibConsole.exe
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\BibConsole.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\BibDomain.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\EntityFramework.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\EntityFramework.SqlServer.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\Service.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\ServicePattern.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\BibData.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\BibDomain.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\ServicePattern.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\Service.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\EntityFramework.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\EntityFramework.SqlServer.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\BibData.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\obj\Debug\BibConsole.csprojResolveAssemblyReference.cache
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\obj\Debug\BibConsole.exe
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\obj\Debug\BibConsole.pdb

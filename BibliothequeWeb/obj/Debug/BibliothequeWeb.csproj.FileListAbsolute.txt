@@ -1,0 +1,219 @@
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\ApplicationInsights.config
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\BibliothequeWeb.dll.config
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\BibliothequeWeb.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\BibliothequeWeb.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\csc.exe
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\csc.exe.config
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\csc.rsp
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\csi.exe
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\csi.exe.config
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\csi.rsp
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.AppContext.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Console.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Threading.Thread.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\vbc.exe
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\vbc.exe.config
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\vbc.rsp
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Antlr3.Runtime.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\EntityFramework.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.AI.Web.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Newtonsoft.Json.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Service.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\ServicePattern.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.Helpers.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.Mvc.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.Optimization.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.Razor.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.WebPages.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\WebGrease.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\BibData.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\BibDomain.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\ServicePattern.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Service.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\EntityFramework.xml
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.Helpers.xml
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.Mvc.xml
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.Optimization.xml
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.Razor.xml
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.WebPages.xml
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Antlr3.Runtime.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Newtonsoft.Json.xml
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.AI.Web.xml
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\BibData.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\BibData.dll.config
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\fr\System.Web.Razor.resources.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\obj\Debug\BibliothequeWeb.csprojResolveAssemblyReference.cache
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\obj\Debug\BibliothequeWeb.csproj.CoreCompileInputs.cache
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\obj\Debug\BibliothequeWeb.csproj.CopyComplete
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\obj\Debug\BibliothequeWeb.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\obj\Debug\BibliothequeWeb.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\ApplicationInsights.config
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\BibliothequeWeb.dll.config
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\BibliothequeWeb.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\BibliothequeWeb.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\csc.exe
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\csc.exe.config
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\csc.rsp
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\csi.exe
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\csi.exe.config
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\csi.rsp
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.AppContext.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Collections.Immutable.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Console.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Diagnostics.Process.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.IO.Compression.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.IO.FileSystem.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.IO.Pipes.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Reflection.Metadata.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Security.AccessControl.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Security.Claims.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Security.Principal.Windows.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Threading.Thread.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.ValueTuple.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Xml.XmlDocument.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Xml.XPath.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\vbc.exe
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\vbc.exe.config
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\vbc.rsp
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\VBCSCompiler.exe
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\roslyn\VBCSCompiler.exe.config
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Antlr3.Runtime.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\BibDomain.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\EntityFramework.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\EntityFramework.SqlServer.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.AI.Agent.Intercept.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.AI.DependencyCollector.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.AI.Web.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.AI.WindowsServer.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.ApplicationInsights.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.Web.Infrastructure.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Newtonsoft.Json.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Service.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\ServicePattern.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.Helpers.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.Mvc.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.Optimization.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.Razor.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.WebPages.Deployment.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.WebPages.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.WebPages.Razor.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\WebGrease.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\BibData.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\BibDomain.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\ServicePattern.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Service.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\EntityFramework.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\EntityFramework.SqlServer.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.Helpers.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.Mvc.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.Optimization.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.Razor.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.WebPages.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.WebPages.Deployment.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\System.Web.WebPages.Razor.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Antlr3.Runtime.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Newtonsoft.Json.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.ApplicationInsights.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.AI.DependencyCollector.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.AI.WindowsServer.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\Microsoft.AI.Web.xml
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\BibData.pdb
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\fr\System.Web.Helpers.resources.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\fr\System.Web.Mvc.resources.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\fr\System.Web.Optimization.resources.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\fr\System.Web.Razor.resources.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\fr\System.Web.WebPages.resources.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\fr\System.Web.WebPages.Deployment.resources.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\bin\fr\System.Web.WebPages.Razor.resources.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\obj\Debug\BibliothequeWeb.csprojResolveAssemblyReference.cache
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\obj\Debug\BibliothequeWeb.dll
+F:\cours\NET\seance 11\GestionBibliothequeFinal\GestionBibliotheque\BibliothequeWeb\obj\Debug\BibliothequeWeb.pdb

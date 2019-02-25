@@ -1,0 +1,76 @@
+﻿@model IEnumerable<BibliothequeWeb.Models.DocumentViewModel>
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@using (Html.BeginForm())
+{
+
+    @*Un seul bouton pour les deux recherches*@
+    <table>
+        <tr>
+            <td>
+                <div>
+                    Recherche par titre: @Html.TextBox("searchString")
+                    Recherche par documentCode:  @Html.TextBox("id")
+                </div>
+            </td>
+            <td> <input type="submit" value="Rechercher" id="recherche" /> </td>
+        </tr>
+
+    </table>
+}
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DocumentCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Titre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Categorie)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Etat)
+            </th>
+            @*<th>
+                    @Html.DisplayNameFor(model => model.BibliothequeFK)
+                </th>*@
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DocumentCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Titre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Categorie)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Etat)
+                </td>
+                @*<td>
+                        @Html.DisplayFor(modelItem => item.BibliothequeFK)
+                    </td>*@
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.DocumentCode }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.DocumentCode }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.DocumentCode })
+                </td>
+            </tr>
+        }
+
+    </table>
